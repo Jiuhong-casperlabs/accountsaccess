@@ -15,8 +15,8 @@ doctest = false
 test = false
 
 [[bin]]
-name = "sessioncontract"
-path = "src/sessioncontract.rs"
+name = "pickupaccess"
+path = "src/pickupaccess.rs"
 bench = false
 doctest = false
 test = false
